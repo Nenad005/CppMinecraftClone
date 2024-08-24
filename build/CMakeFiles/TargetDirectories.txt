@@ -1,0 +1,3 @@
+C:/Projects/c++/OpenGl/build/CMakeFiles/MojKraft.dir
+C:/Projects/c++/OpenGl/build/CMakeFiles/edit_cache.dir
+C:/Projects/c++/OpenGl/build/CMakeFiles/rebuild_cache.dir

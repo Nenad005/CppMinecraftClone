@@ -1,0 +1,128 @@
+[
+{
+  "directory": "C:/Projects/c++/OpenGl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Projects/c++/OpenGl/Dependencies/GLFW/include -IC:/Projects/c++/OpenGl/Dependencies/GLAD/include -g -o CMakeFiles\\MojKraft.dir\\src\\Application.cpp.obj -c C:\\Projects\\c++\\OpenGl\\src\\Application.cpp",
+  "file": "C:\\Projects\\c++\\OpenGl\\src\\Application.cpp",
+  "output": "CMakeFiles\\MojKraft.dir\\src\\Application.cpp.obj"
+},
+{
+  "directory": "C:/Projects/c++/OpenGl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Projects/c++/OpenGl/Dependencies/GLFW/include -IC:/Projects/c++/OpenGl/Dependencies/GLAD/include -g -o CMakeFiles\\MojKraft.dir\\src\\Debug.cpp.obj -c C:\\Projects\\c++\\OpenGl\\src\\Debug.cpp",
+  "file": "C:\\Projects\\c++\\OpenGl\\src\\Debug.cpp",
+  "output": "CMakeFiles\\MojKraft.dir\\src\\Debug.cpp.obj"
+},
+{
+  "directory": "C:/Projects/c++/OpenGl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Projects/c++/OpenGl/Dependencies/GLFW/include -IC:/Projects/c++/OpenGl/Dependencies/GLAD/include -g -o CMakeFiles\\MojKraft.dir\\RENDERING\\FPSCamera.cpp.obj -c C:\\Projects\\c++\\OpenGl\\RENDERING\\FPSCamera.cpp",
+  "file": "C:\\Projects\\c++\\OpenGl\\RENDERING\\FPSCamera.cpp",
+  "output": "CMakeFiles\\MojKraft.dir\\RENDERING\\FPSCamera.cpp.obj"
+},
+{
+  "directory": "C:/Projects/c++/OpenGl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Projects/c++/OpenGl/Dependencies/GLFW/include -IC:/Projects/c++/OpenGl/Dependencies/GLAD/include -g -o CMakeFiles\\MojKraft.dir\\RENDERING\\FPSCounter.cpp.obj -c C:\\Projects\\c++\\OpenGl\\RENDERING\\FPSCounter.cpp",
+  "file": "C:\\Projects\\c++\\OpenGl\\RENDERING\\FPSCounter.cpp",
+  "output": "CMakeFiles\\MojKraft.dir\\RENDERING\\FPSCounter.cpp.obj"
+},
+{
+  "directory": "C:/Projects/c++/OpenGl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Projects/c++/OpenGl/Dependencies/GLFW/include -IC:/Projects/c++/OpenGl/Dependencies/GLAD/include -g -o CMakeFiles\\MojKraft.dir\\RENDERING\\Renderer.cpp.obj -c C:\\Projects\\c++\\OpenGl\\RENDERING\\Renderer.cpp",
+  "file": "C:\\Projects\\c++\\OpenGl\\RENDERING\\Renderer.cpp",
+  "output": "CMakeFiles\\MojKraft.dir\\RENDERING\\Renderer.cpp.obj"
+},
+{
+  "directory": "C:/Projects/c++/OpenGl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Projects/c++/OpenGl/Dependencies/GLFW/include -IC:/Projects/c++/OpenGl/Dependencies/GLAD/include -g -o CMakeFiles\\MojKraft.dir\\OPEN-GL\\IndexBuffer.cpp.obj -c C:\\Projects\\c++\\OpenGl\\OPEN-GL\\IndexBuffer.cpp",
+  "file": "C:\\Projects\\c++\\OpenGl\\OPEN-GL\\IndexBuffer.cpp",
+  "output": "CMakeFiles\\MojKraft.dir\\OPEN-GL\\IndexBuffer.cpp.obj"
+},
+{
+  "directory": "C:/Projects/c++/OpenGl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Projects/c++/OpenGl/Dependencies/GLFW/include -IC:/Projects/c++/OpenGl/Dependencies/GLAD/include -g -o CMakeFiles\\MojKraft.dir\\OPEN-GL\\Shader.cpp.obj -c C:\\Projects\\c++\\OpenGl\\OPEN-GL\\Shader.cpp",
+  "file": "C:\\Projects\\c++\\OpenGl\\OPEN-GL\\Shader.cpp",
+  "output": "CMakeFiles\\MojKraft.dir\\OPEN-GL\\Shader.cpp.obj"
+},
+{
+  "directory": "C:/Projects/c++/OpenGl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Projects/c++/OpenGl/Dependencies/GLFW/include -IC:/Projects/c++/OpenGl/Dependencies/GLAD/include -g -o CMakeFiles\\MojKraft.dir\\OPEN-GL\\Texture.cpp.obj -c C:\\Projects\\c++\\OpenGl\\OPEN-GL\\Texture.cpp",
+  "file": "C:\\Projects\\c++\\OpenGl\\OPEN-GL\\Texture.cpp",
+  "output": "CMakeFiles\\MojKraft.dir\\OPEN-GL\\Texture.cpp.obj"
+},
+{
+  "directory": "C:/Projects/c++/OpenGl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Projects/c++/OpenGl/Dependencies/GLFW/include -IC:/Projects/c++/OpenGl/Dependencies/GLAD/include -g -o CMakeFiles\\MojKraft.dir\\OPEN-GL\\VertexArray.cpp.obj -c C:\\Projects\\c++\\OpenGl\\OPEN-GL\\VertexArray.cpp",
+  "file": "C:\\Projects\\c++\\OpenGl\\OPEN-GL\\VertexArray.cpp",
+  "output": "CMakeFiles\\MojKraft.dir\\OPEN-GL\\VertexArray.cpp.obj"
+},
+{
+  "directory": "C:/Projects/c++/OpenGl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Projects/c++/OpenGl/Dependencies/GLFW/include -IC:/Projects/c++/OpenGl/Dependencies/GLAD/include -g -o CMakeFiles\\MojKraft.dir\\OPEN-GL\\VertexBuffer.cpp.obj -c C:\\Projects\\c++\\OpenGl\\OPEN-GL\\VertexBuffer.cpp",
+  "file": "C:\\Projects\\c++\\OpenGl\\OPEN-GL\\VertexBuffer.cpp",
+  "output": "CMakeFiles\\MojKraft.dir\\OPEN-GL\\VertexBuffer.cpp.obj"
+},
+{
+  "directory": "C:/Projects/c++/OpenGl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Projects/c++/OpenGl/Dependencies/GLFW/include -IC:/Projects/c++/OpenGl/Dependencies/GLAD/include -g -o CMakeFiles\\MojKraft.dir\\OPEN-GL\\VertexBufferLayout.cpp.obj -c C:\\Projects\\c++\\OpenGl\\OPEN-GL\\VertexBufferLayout.cpp",
+  "file": "C:\\Projects\\c++\\OpenGl\\OPEN-GL\\VertexBufferLayout.cpp",
+  "output": "CMakeFiles\\MojKraft.dir\\OPEN-GL\\VertexBufferLayout.cpp.obj"
+},
+{
+  "directory": "C:/Projects/c++/OpenGl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -IC:/Projects/c++/OpenGl/Dependencies/GLFW/include -IC:/Projects/c++/OpenGl/Dependencies/GLAD/include -g -o CMakeFiles\\MojKraft.dir\\Dependencies\\GLAD\\src\\glad.c.obj -c C:\\Projects\\c++\\OpenGl\\Dependencies\\GLAD\\src\\glad.c",
+  "file": "C:\\Projects\\c++\\OpenGl\\Dependencies\\GLAD\\src\\glad.c",
+  "output": "CMakeFiles\\MojKraft.dir\\Dependencies\\GLAD\\src\\glad.c.obj"
+},
+{
+  "directory": "C:/Projects/c++/OpenGl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Projects/c++/OpenGl/Dependencies/GLFW/include -IC:/Projects/c++/OpenGl/Dependencies/GLAD/include -g -o CMakeFiles\\MojKraft.dir\\Vendor\\stb_image\\stb_image_write.cpp.obj -c C:\\Projects\\c++\\OpenGl\\Vendor\\stb_image\\stb_image_write.cpp",
+  "file": "C:\\Projects\\c++\\OpenGl\\Vendor\\stb_image\\stb_image_write.cpp",
+  "output": "CMakeFiles\\MojKraft.dir\\Vendor\\stb_image\\stb_image_write.cpp.obj"
+},
+{
+  "directory": "C:/Projects/c++/OpenGl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Projects/c++/OpenGl/Dependencies/GLFW/include -IC:/Projects/c++/OpenGl/Dependencies/GLAD/include -g -o CMakeFiles\\MojKraft.dir\\Vendor\\stb_image\\stb_image.cpp.obj -c C:\\Projects\\c++\\OpenGl\\Vendor\\stb_image\\stb_image.cpp",
+  "file": "C:\\Projects\\c++\\OpenGl\\Vendor\\stb_image\\stb_image.cpp",
+  "output": "CMakeFiles\\MojKraft.dir\\Vendor\\stb_image\\stb_image.cpp.obj"
+},
+{
+  "directory": "C:/Projects/c++/OpenGl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Projects/c++/OpenGl/Dependencies/GLFW/include -IC:/Projects/c++/OpenGl/Dependencies/GLAD/include -g -o CMakeFiles\\MojKraft.dir\\Vendor\\imgui\\imgui.cpp.obj -c C:\\Projects\\c++\\OpenGl\\Vendor\\imgui\\imgui.cpp",
+  "file": "C:\\Projects\\c++\\OpenGl\\Vendor\\imgui\\imgui.cpp",
+  "output": "CMakeFiles\\MojKraft.dir\\Vendor\\imgui\\imgui.cpp.obj"
+},
+{
+  "directory": "C:/Projects/c++/OpenGl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Projects/c++/OpenGl/Dependencies/GLFW/include -IC:/Projects/c++/OpenGl/Dependencies/GLAD/include -g -o CMakeFiles\\MojKraft.dir\\Vendor\\imgui\\imgui_demo.cpp.obj -c C:\\Projects\\c++\\OpenGl\\Vendor\\imgui\\imgui_demo.cpp",
+  "file": "C:\\Projects\\c++\\OpenGl\\Vendor\\imgui\\imgui_demo.cpp",
+  "output": "CMakeFiles\\MojKraft.dir\\Vendor\\imgui\\imgui_demo.cpp.obj"
+},
+{
+  "directory": "C:/Projects/c++/OpenGl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Projects/c++/OpenGl/Dependencies/GLFW/include -IC:/Projects/c++/OpenGl/Dependencies/GLAD/include -g -o CMakeFiles\\MojKraft.dir\\Vendor\\imgui\\imgui_draw.cpp.obj -c C:\\Projects\\c++\\OpenGl\\Vendor\\imgui\\imgui_draw.cpp",
+  "file": "C:\\Projects\\c++\\OpenGl\\Vendor\\imgui\\imgui_draw.cpp",
+  "output": "CMakeFiles\\MojKraft.dir\\Vendor\\imgui\\imgui_draw.cpp.obj"
+},
+{
+  "directory": "C:/Projects/c++/OpenGl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Projects/c++/OpenGl/Dependencies/GLFW/include -IC:/Projects/c++/OpenGl/Dependencies/GLAD/include -g -o CMakeFiles\\MojKraft.dir\\Vendor\\imgui\\imgui_impl_glfw.cpp.obj -c C:\\Projects\\c++\\OpenGl\\Vendor\\imgui\\imgui_impl_glfw.cpp",
+  "file": "C:\\Projects\\c++\\OpenGl\\Vendor\\imgui\\imgui_impl_glfw.cpp",
+  "output": "CMakeFiles\\MojKraft.dir\\Vendor\\imgui\\imgui_impl_glfw.cpp.obj"
+},
+{
+  "directory": "C:/Projects/c++/OpenGl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Projects/c++/OpenGl/Dependencies/GLFW/include -IC:/Projects/c++/OpenGl/Dependencies/GLAD/include -g -o CMakeFiles\\MojKraft.dir\\Vendor\\imgui\\imgui_impl_opengl3.cpp.obj -c C:\\Projects\\c++\\OpenGl\\Vendor\\imgui\\imgui_impl_opengl3.cpp",
+  "file": "C:\\Projects\\c++\\OpenGl\\Vendor\\imgui\\imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles\\MojKraft.dir\\Vendor\\imgui\\imgui_impl_opengl3.cpp.obj"
+},
+{
+  "directory": "C:/Projects/c++/OpenGl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Projects/c++/OpenGl/Dependencies/GLFW/include -IC:/Projects/c++/OpenGl/Dependencies/GLAD/include -g -o CMakeFiles\\MojKraft.dir\\Vendor\\imgui\\imgui_tables.cpp.obj -c C:\\Projects\\c++\\OpenGl\\Vendor\\imgui\\imgui_tables.cpp",
+  "file": "C:\\Projects\\c++\\OpenGl\\Vendor\\imgui\\imgui_tables.cpp",
+  "output": "CMakeFiles\\MojKraft.dir\\Vendor\\imgui\\imgui_tables.cpp.obj"
+},
+{
+  "directory": "C:/Projects/c++/OpenGl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Projects/c++/OpenGl/Dependencies/GLFW/include -IC:/Projects/c++/OpenGl/Dependencies/GLAD/include -g -o CMakeFiles\\MojKraft.dir\\Vendor\\imgui\\imgui_widgets.cpp.obj -c C:\\Projects\\c++\\OpenGl\\Vendor\\imgui\\imgui_widgets.cpp",
+  "file": "C:\\Projects\\c++\\OpenGl\\Vendor\\imgui\\imgui_widgets.cpp",
+  "output": "CMakeFiles\\MojKraft.dir\\Vendor\\imgui\\imgui_widgets.cpp.obj"
+}
+]
